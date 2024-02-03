@@ -1,4 +1,6 @@
-# Try It Yourself 1-1 python.org
+# Try It Yourself Solution
+
+## 1-1 python.org
 
 Pythons homepage [python.org](https://python.org) is the place to go to download python, it also holds an abundance of resources to learn python, and keep up what is happening in tho world of python.
 
