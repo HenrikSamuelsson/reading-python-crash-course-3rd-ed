@@ -2,7 +2,11 @@
 
 ## 1-2 Hello World Typos
 
-Som tests to see what happens if making typos in the code.
+Som tests to see what happens if making typos in the following Python code:
+
+```python
+print("Hello Python world!")
+```
 
 ### No Quotation Marks
 
