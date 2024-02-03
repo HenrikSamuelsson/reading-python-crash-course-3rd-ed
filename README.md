@@ -15,7 +15,7 @@ Material related to reading the book Python Crash Course: A Hands-on, Project-ba
 
 ## Tools
 
-Current set of tools for Python development:
+Currently do the bulk of my work on a PC running Windows 10 Pro and the current set of tools for Python development are:
 
 - Python, version 3.12.1
 - Visual Studio Code (VS Code), version 1.86.0
