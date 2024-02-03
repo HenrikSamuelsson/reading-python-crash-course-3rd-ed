@@ -12,3 +12,11 @@ Material related to reading the book Python Crash Course: A Hands-on, Project-ba
 ### Python Resources
 
 [Official Python information page](https://www.python.org/)  
+
+## Tools
+
+Current set of tools for Python development:
+
+- Python, version 3.12.1
+- Visual Studio Code (VS Code), version 1.86.0
+- Python (Microsoft) VS Code extension, version  v2024.0.0
